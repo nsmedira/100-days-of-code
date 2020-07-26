@@ -8,6 +8,11 @@
 
 **Link(s) to work:**
 - [blog.js](Code/Day_001/blog.js)
+- [blogPost.js](Code/Day_001/blogPost.js)
+- [blogPosts.js](Code/Day_001/blogPosts.js)
+- [getBlogPost.js](Code/Day_001/getBlogPost.js)
+- [getBlogPosts.js](Code/Day_001/getBlogPosts.js)
+- [nav_list.js](Code/Day_001/nav_list.js)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
