@@ -2,7 +2,7 @@
 
 ### Day 1: July 25, 2020
 
-[Code](Code/Day 001)
+[Code](Code/Day 001/)
 
 **Today's Progress**: Worked on blog portion of portfolio website.
 
