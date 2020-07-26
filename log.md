@@ -2,7 +2,7 @@
 
 ### Day 1: July 25, 2020
 
-**Today's Progress**: Worked on blog portion of portfolio website.
+**Today's Progress:** Worked on blog portion of portfolio website.
 
 **Thoughts:** Was able to get blog list view working (reading data from Firebase Firestore). Began coding blog post detail view but hit a wall. More to come tomorrow.
 
@@ -13,6 +13,15 @@
 - [getBlogPost.js](Code/Day_001/getBlogPost.js)
 - [getBlogPosts.js](Code/Day_001/getBlogPosts.js)
 - [nav_list.js](Code/Day_001/nav_list.js)
+
+### Day 2: July 26, 2020
+
+**Today's Progress**: Worked on blog post detail page of portfolio website.
+
+**Thoughts:** User can now click on a blog post on the list view and will be brough to the detail view. Going to detail view performs a new query to select specific blog post via ID.
+
+**Links(s) to work:**
+- [getBlogPost.js](Code/Day_002/getBlogPost.js)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
