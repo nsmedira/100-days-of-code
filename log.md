@@ -2,13 +2,12 @@
 
 ### Day 1: July 25, 2020
 
-[Code](Code/Day 001/)
-
 **Today's Progress**: Worked on blog portion of portfolio website.
 
 **Thoughts:** Was able to get blog list view working (reading data from Firebase Firestore). Began coding blog post detail view but hit a wall. More to come tomorrow.
 
-**Link(s) to work:** In progress
+**Link(s) to work:**
+- [blog.js](Code/Day_001/blog.js)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
