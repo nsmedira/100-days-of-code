@@ -34,3 +34,13 @@
 - [blogPost_firebase.js](Code/Day_003/blogPost_firebase.js)
 - [getBlogPost.js](Code/Day_003/getBlogPost.js)
 - [navbar.js](Code/Day_003/navbar.js)
+
+### Day 4: July 28, 2020
+
+**Today's Progress**: Learned some new HTML tags and CSS properties
+
+**Thoughts:** Didn't have much energy today, so focused on making the blog post page look better. Added `<header>`, `<main>`, and `<article>` tags to the blog post component. Also updated blogPost.css to add some margins to the paragraph elements and to allow any words within the body to wrap lines with the `word-wrap: break-word` property. 
+
+**Links(s) to work:**
+- [blogPost.css](Code/Day_004/blogPost.css)
+- [blogPost_firebase.js](Code/Day_004/blogPost_firebase.js)
