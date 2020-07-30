@@ -56,3 +56,11 @@ Updated Firestore queries for blog posts list and post detail view. For list vie
 **Links(s) to work:**
 - [getBlogPost.js](Code/Day_005/getBlogPost.js)
 - [getBlogPosts.js](Code/Day_005/getBlogPosts.js)
+
+### Day 6: July 30, 2020
+
+**Today's Progress**: Beat head against wall!
+
+**Thoughts:** Started to make what I thought would be an optimization to the blog components but after implementing I realized that I was operating on faulty presuppositions. Reverted work. 
+
+Tried to make all components in a row the same height unsuccessfully. Tried css props `display: flex` and `flex-wrap: wrap` to make all rows equal height, but the components in the `col` divs didn't stretch to the height of the row.
