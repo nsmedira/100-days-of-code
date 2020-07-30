@@ -44,3 +44,15 @@
 **Links(s) to work:**
 - [blogPost.css](Code/Day_004/blogPost.css)
 - [blogPost_firebase.js](Code/Day_004/blogPost_firebase.js)
+
+### Day 5: July 29, 2020
+
+**Today's Progress**: Updated Firestore queries
+
+**Thoughts:** Tough day on a personal level. Didn't feel any motivation to code. Waited until the 11th hour (literally) to get started. 
+
+Updated Firestore queries for blog posts list and post detail view. For list view, now only showing those posts that have a status == 'publish'. On post detail view, now passing slug instead of id in URL and querying db for matching slug.
+
+**Links(s) to work:**
+- [getBlogPost.js](Code/Day_005/getBlogPost.js)
+- [getBlogPosts.js](Code/Day_005/getBlogPosts.js)
