@@ -64,3 +64,11 @@ Updated Firestore queries for blog posts list and post detail view. For list vie
 **Thoughts:** Started to make what I thought would be an optimization to the blog components but after implementing I realized that I was operating on faulty presuppositions. Reverted work. 
 
 Tried to make all components in a row the same height unsuccessfully. Tried css props `display: flex` and `flex-wrap: wrap` to make all rows equal height, but the components in the `col` divs didn't stretch to the height of the row.
+
+### Day 7: July 31, 2020
+
+**Today's Progress**: Styling 'skills' page of portfolio site.
+
+**Thoughts:** Struggled to figure out how to make Materialize CSS Cards all the same height in a row. Tried several approaches to override Material CSS with custom CSS. Eventually scrapped the effort and decided to use the tools included in Materialize to set the card size to a fixed height using the 'small' class.
+
+Also added images to each of the cards e.g. JS icon for JavaScript card or FileMaker icon for FileMaker card.
