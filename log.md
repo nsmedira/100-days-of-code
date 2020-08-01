@@ -76,3 +76,13 @@ Also added images to each of the cards e.g. JS icon for JavaScript card or FileM
 **Links(s) to work:**
 - [skills.js](Code/Day_007/skills.js)
 - [skill_card.js](Code/Day_007/skill_card.js)
+
+### Day 8: August 1, 2020
+
+**Today's Progress**: Continued styling 'skills' page of portfolio site.
+
+**Thoughts:** Added images to remaining cards. Changed card component to an eggshell white color with cg-blue text.
+
+**Links(s) to work:**
+- [skills.js](Code/Day_008/skills.js)
+- [skill_card.js](Code/Day_008/skill_card.js)
