@@ -72,3 +72,7 @@ Tried to make all components in a row the same height unsuccessfully. Tried css 
 **Thoughts:** Struggled to figure out how to make Materialize CSS Cards all the same height in a row. Tried several approaches to override Material CSS with custom CSS. Eventually scrapped the effort and decided to use the tools included in Materialize to set the card size to a fixed height using the 'small' class.
 
 Also added images to each of the cards e.g. JS icon for JavaScript card or FileMaker icon for FileMaker card.
+
+**Links(s) to work:**
+- [skills.js](Code/Day_007/skills.js)
+- [skill_card.js](Code/Day_007/skill_card.js)
