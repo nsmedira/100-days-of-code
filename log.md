@@ -86,3 +86,21 @@ Also added images to each of the cards e.g. JS icon for JavaScript card or FileM
 **Links(s) to work:**
 - [skills.js](Code/Day_008/skills.js)
 - [skill_card.js](Code/Day_008/skill_card.js)
+
+### Day 9: August 2, 2020
+
+**Today's Progress**: Built out homepage and leveraged more of Materialize CSS.
+
+**Thoughts:** Love the weekends! Can really break away from work-mode and devote time to this project. Spent some time perusing portfolio sites on the web for inspiration. Used what I learned to build out my own home page. 
+
+Also read through the Materialize CSS documentation in detail and applied more of its features to my site.
+
+**Links(s) to work:**
+- [skills.js](Code/Day_009/skills.js)
+- [skill_card.js](Code/Day_009/skill_card.js)
+- [getBlogPost.js](Code/Day_009/getBlogPost.js)
+- [getBlogPosts.js](Code/Day_009/getBlogPosts.js)
+- [home.css](Code/Day_009/home.css)
+- [navbar.js](Code/Day_009/navbar.js)
+- [project_card.js](Code/Day_009/project_card.js)
+- [projectList.js](Code/Day_009/projectList.js)
