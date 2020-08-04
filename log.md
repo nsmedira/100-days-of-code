@@ -104,3 +104,15 @@ Also read through the Materialize CSS documentation in detail and applied more o
 - [navbar.js](Code/Day_009/navbar.js)
 - [project_card.js](Code/Day_009/project_card.js)
 - [projectList.js](Code/Day_009/projectList.js)
+
+### Day 10: August 3, 2020
+
+**Today's Progress**: Learned about XSS and Firebase Security Rules
+
+**Thoughts:** Not much coding today, but a lot of reading to prepare for the next push. Need to make sure that security is tight before deployment. Also learned a bit more about Flamelink schema to add relational categories to blog posts.
+
+[Cross-Site Scripting (XSS) Explained by PwnFunction](https://www.youtube.com/watch?v=EoaDgUgS6QA)
+
+[Security Rules! Get to Know Cloud Firestore #6 by Firebase](youtube.com/watch?v=eW5MdE3ZcAw)
+
+[How to Set up [Flamelink] Schemas?](https://intercom.help/flamelink/en/articles/2419375-how-to-set-up-schemas)
