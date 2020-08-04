@@ -111,7 +111,7 @@ Also read through the Materialize CSS documentation in detail and applied more o
 
 **Thoughts:** Not much coding today, but a lot of reading to prepare for the next push. Need to make sure that security is tight before deployment. Also learned a bit more about Flamelink schema to add relational categories to blog posts.
 
-[Cross-Site Scripting (XSS) Explained by PwnFunction](https://www.youtube.com/watch?v=EoaDgUgS6QA)
+[Cross-Site Scripting (XSS) Explained by PwnFunction](https://youtu.be/EoaDgUgS6QA)
 
 [Security Rules! Get to Know Cloud Firestore #6 by Firebase](https://youtu.be/eW5MdE3ZcAw)
 
