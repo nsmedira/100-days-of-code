@@ -113,6 +113,6 @@ Also read through the Materialize CSS documentation in detail and applied more o
 
 [Cross-Site Scripting (XSS) Explained by PwnFunction](https://www.youtube.com/watch?v=EoaDgUgS6QA)
 
-[Security Rules! Get to Know Cloud Firestore #6 by Firebase](youtube.com/watch?v=eW5MdE3ZcAw)
+[Security Rules! Get to Know Cloud Firestore #6 by Firebase](https://youtu.be/eW5MdE3ZcAw)
 
 [How to Set up [Flamelink] Schemas?](https://intercom.help/flamelink/en/articles/2419375-how-to-set-up-schemas)
