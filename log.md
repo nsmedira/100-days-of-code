@@ -116,3 +116,16 @@ Also read through the Materialize CSS documentation in detail and applied more o
 [Security Rules! Get to Know Cloud Firestore #6 by Firebase](https://youtu.be/eW5MdE3ZcAw)
 
 [How to Set up [Flamelink] Schemas?](https://intercom.help/flamelink/en/articles/2419375-how-to-set-up-schemas)
+
+### Day 11: August 4, 2020
+
+**Today's Progress**: Added categories to Flamelink schema, added those categories to blog posts page, added 'home' to nav bar
+
+**Thoughts:** Struggled a bit to figure out how to show docs from multiple Flamelink schema on the same page. Ended up adding a new object to the blog posts component's state that gets filled with all categories upon load. Then added a new `map` function to build Materialize `chip` elements for each category related to a given post, using the category ID(s) stored in the post object to pull from the object of categories in component state.
+
+Added 'Home' as a new segment in the nav bar.
+
+**Links(s) to work:**
+- [nav_list.js](Code/Day_011/nav_list.js)
+- [getBlogPosts.css](Code/Day_011/getBlogPosts.css)
+- [getBlogPosts.js](Code/Day_011/getBlogPosts.js)
