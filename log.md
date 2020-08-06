@@ -129,3 +129,14 @@ Added 'Home' as a new segment in the nav bar.
 - [nav_list.js](Code/Day_011/nav_list.js)
 - [getBlogPosts.css](Code/Day_011/getBlogPosts.css)
 - [getBlogPosts.js](Code/Day_011/getBlogPosts.js)
+
+### Day 12: August 5, 2020
+
+**Today's Progress**: Struggled to add an 'active' class to the navbar segment when that page is active
+
+**Thoughts:** Took all night but finally figured out how to store `activeTab` in state in the navbar.js component and pass down to nav_list.js and then nav_segment.js. also passing down function from navbar.js `handler` that will update state in that component when a nav link is clicked.
+
+**Links(s) to work:**
+- [nav_list.js](Code/Day_012/nav_list.js)
+- [nav_segment.js](Code/Day_012/nav_segment.js)
+- [navbar.js](Code/Day_012/navbar.js)
