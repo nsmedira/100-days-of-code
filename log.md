@@ -140,3 +140,24 @@ Added 'Home' as a new segment in the nav bar.
 - [nav_list.js](Code/Day_012/nav_list.js)
 - [nav_segment.js](Code/Day_012/nav_segment.js)
 - [navbar.js](Code/Day_012/navbar.js)
+
+### Day 13: August 6, 2020
+
+**Today's Progress**: Spun wheels trying to share state between unrelated components.
+
+**Thoughts:** Wasn't a total waste as I conceptualized what will hopefully be a workable solution. Planning to put in place tomorrow.
+
+### Day 14: August 7, 2020
+
+**Today's Progress**: Stored active tab in app.js so available from all child components.
+
+**Thoughts:** Refactored all functional components that play into the active tab into class components so they can execute function passed as prop in componentDidMount function. Stored 'activeTab' in state in app.js (highest component in hierarchy). Learned about difference between 'component' and 'render' methods of Route component.
+
+**Links(s) to work:**
+- [about.js](Code/Day_014/about.js)
+- [App.js](Code/Day_014/App.js)
+- [blog.js](Code/Day_014/blog.js)
+- [home.js](Code/Day_014/home.js)
+- [navbar.js](Code/Day_014/navbar.js)
+- [portfolio.js](Code/Day_014/portfolio.js)
+- [skills.js](Code/Day_014/skills.js)
