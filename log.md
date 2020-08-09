@@ -161,3 +161,18 @@ Added 'Home' as a new segment in the nav bar.
 - [navbar.js](Code/Day_014/navbar.js)
 - [portfolio.js](Code/Day_014/portfolio.js)
 - [skills.js](Code/Day_014/skills.js)
+
+### Day 15: August 8, 2020
+
+**Today's Progress**: Tried (unsuccessfully) to embed HTML from amcharts
+
+**Thoughts:** Learned that I would need to configure webpack loader for HTML but that isn't possible in create-react-app without ejecting. Decided to install am4charts node packages to build chart from scratch within React project. Got started on that. Code tomorrow.
+
+### Day 16: August 9, 2020
+
+**Today's Progress**: Built out first map using am4charts
+
+**Thoughts:** Built a map of countries I've visited using am4charts node packages. Played with some configuration classes/properties so that map uses same styles as website. Need to add another data series to map to describe USA states visited and improve hover styling.
+
+**Links(s) to work:**
+- [about.js](Code/Day_016/about.js)
