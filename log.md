@@ -176,3 +176,14 @@ Added 'Home' as a new segment in the nav bar.
 
 **Links(s) to work:**
 - [about.js](Code/Day_016/about.js)
+
+### Day 17: August 10, 2020
+
+**Today's Progress**: Read an hour of Vumbula React
+
+**Thoughts:** Finished Chapter 2 and began Chapter 3. Learned about State and React Developer Tools Chrome Extension
+
+**Links(s) to work:**
+- [greeting.html](Code/Day_017/greeting.html)
+- [index.html](Code/Day_017/starter-code/index.html)
+- [index.js](Code/Day_017/starter-code/src/index.js)
