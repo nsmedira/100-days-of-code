@@ -187,3 +187,14 @@ Added 'Home' as a new segment in the nav bar.
 - [greeting.html](Code/Day_017/greeting.html)
 - [index.html](Code/Day_017/starter-code/index.html)
 - [index.js](Code/Day_017/starter-code/src/index.js)
+
+### Day 18: August 11, 2020
+
+**Today's Progress**: Another hour of Vumbula React
+
+**Thoughts:** Finished Chapter 3 and worked through first part of Chapter 4 project. Learned about destructuring, the spread operator (and the correct way to update state), and the prop-types package.
+
+**Links(s) to work:**
+- [AddItem.js](Code/Day_018/src/components/AddItem.js)
+- [App.js](Code/Day_018/src/components/App.js)
+- [index.js](Code/Day_018/chapter-3/index.js)
