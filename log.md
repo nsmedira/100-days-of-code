@@ -198,3 +198,13 @@ Added 'Home' as a new segment in the nav bar.
 - [AddItem.js](Code/Day_018/src/components/AddItem.js)
 - [App.js](Code/Day_018/src/components/App.js)
 - [index.js](Code/Day_018/chapter-3/index.js)
+
+### Day 19: August 12, 2020
+
+**Today's Progress**: Continued chapter 4 project of Vumbula React and prepared for JS and Friends Conference
+
+**Thoughts:** JS and Friends Conference tomorrow. Prepared for React Workshop a bit and then continued with Chapter 4 project in Vumbula React. Learned how to show input fields conditionally.
+
+**Links(s) to work:**
+- [App.js](Code/Day_019/src/components/App.js)
+- [ItemCard.js](Code/Day_019/src/components/ItemCard.js)
