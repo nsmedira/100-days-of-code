@@ -208,3 +208,11 @@ Added 'Home' as a new segment in the nav bar.
 **Links(s) to work:**
 - [App.js](Code/Day_019/src/components/App.js)
 - [ItemCard.js](Code/Day_019/src/components/ItemCard.js)
+
+### Day 20 and 21: August 13-14, 2020
+
+**Today's Progress**: JavaScript and Friends Conference
+
+**Thoughts:** Day 1: Workshops. Learned JAMstack in the morning and built a React project from scratch in afternoon. 
+
+Day 2: Attended talks all day. Best was SEO optimization discussion and the opening Keynote
