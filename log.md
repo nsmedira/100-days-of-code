@@ -216,3 +216,28 @@ Added 'Home' as a new segment in the nav bar.
 **Thoughts:** Day 1: Workshops. Learned JAMstack in the morning and built a React project from scratch in afternoon. 
 
 Day 2: Attended talks all day. Best was SEO optimization discussion and the opening Keynote
+
+### Day 22: August 15, 2020
+
+**Today's Progress**: Applied lessons learned in SEO from JSFriendsConf
+
+**Thoughts:** Applied metatags to all pages for Google bots.
+
+### Day 23: August 16, 2020
+
+**Today's Progress**: Deployed portfolio/blog site
+
+**Thoughts:** In truth, the skeleton has been deployed for several weeks. But I had made an enormous amount of changes during first 22 days of #100DaysOfCode and think that site is ready for prime time.
+
+**Links(s) to work:**
+- [about.js](Code/Day_023/about.js)
+- [blog.js](Code/Day_023/blog/blog.js)
+- [blogPost_firebase.js](Code/Day_023/blog/blogPost_firebase.js)
+- [getBlogPost.js](Code/Day_023/blog/getBlogPost.js)
+- [getBlogPosts.js](Code/Day_023/blog/getBlogPosts.js)
+- [home.js](Code/Day_023/home.js)
+- [portfolio.js](Code/Day_023/portfolio/portfolio.js)
+- [project_card.js](Code/Day_023/portfolio/project_card.js)
+- [projectList.js](Code/Day_023/portfolio/projectList.js)
+- [skills.js](Code/Day_023/skills/skills.js)
+- [skill_card.js](Code/Day_023/skills/skill_card.js)
