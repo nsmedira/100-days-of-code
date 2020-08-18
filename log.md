@@ -241,3 +241,16 @@ Day 2: Attended talks all day. Best was SEO optimization discussion and the open
 - [projectList.js](Code/Day_023/portfolio/projectList.js)
 - [skills.js](Code/Day_023/skills/skills.js)
 - [skill_card.js](Code/Day_023/skills/skill_card.js)
+
+
+### Day 24: August 17, 2020
+
+**Today's Progress**: Continued w/ Vumbula React
+
+**Thoughts:** Finished chapter 4. Learned about the JS slice method. In beginning of Chapter 5, learned about routing in React, the different types of routing (BrowserRouter, HashRouter, MemoryRouter), the History object and its location property. Learned about the Route component and the props it can accept (component, render, children)
+
+**Links(s) to work:**
+- [edit-item-card/App.js](Code/Day_024/edit-item-card/App.js)
+- [edit-item-card/ItemCard.js](Code/Day_024/edit-item-card/ItemCard.js)
+- [delete-item-card/App.js](Code/Day_024/delete-item-card/App.js)
+- [delete-item-card/ItemCard.js](Code/Day_024/delete-item-card/ItemCard.js)
