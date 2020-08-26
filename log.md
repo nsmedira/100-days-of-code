@@ -242,7 +242,6 @@ Day 2: Attended talks all day. Best was SEO optimization discussion and the open
 - [skills.js](Code/Day_023/skills/skills.js)
 - [skill_card.js](Code/Day_023/skills/skill_card.js)
 
-
 ### Day 24: August 17, 2020
 
 **Today's Progress**: Continued w/ Vumbula React
@@ -254,3 +253,15 @@ Day 2: Attended talks all day. Best was SEO optimization discussion and the open
 - [edit-item-card/ItemCard.js](Code/Day_024/edit-item-card/ItemCard.js)
 - [delete-item-card/App.js](Code/Day_024/delete-item-card/App.js)
 - [delete-item-card/ItemCard.js](Code/Day_024/delete-item-card/ItemCard.js)
+
+### Day 32: August 25, 2020
+
+**Today's Progress**: Continued adding Gatsby to create-react-app
+
+**Thoughts:** Installed gatsby-source-filesystem and gatsby-transformer-remark plugins, created gatsby-config.js file to inject plugins and added siteMetadata object, gatsby-browser.js for custom css, graphQL query in index.js to query siteMetadata and blog post markdown files, copied SEO and Layout components from gatsby-starter-blog
+
+**Links(s) to work:**
+- [gatsby-config.js](Code/Day_032/gatsby-config.js)
+- [index.js](Code/Day_032/index.js)
+- [layout.js](Code/Day_032/layout.js)
+- [seo.js](Code/Day_032/seo.js)
