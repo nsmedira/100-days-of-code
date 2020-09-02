@@ -265,3 +265,15 @@ Day 2: Attended talks all day. Best was SEO optimization discussion and the open
 - [index.js](Code/Day_032/index.js)
 - [layout.js](Code/Day_032/layout.js)
 - [seo.js](Code/Day_032/seo.js)
+
+### Day 39: September 1, 2020
+
+**Today's Progress**: Added EmbedSocial's Instagram Feed widget and a Google Map with a marker
+
+**Thoughts:** Hacked together a few integrations. EmbedSocial's Instagram feed widget could not be copied and pasted directly. I added the div that its script expected and then hacked together the rest in a useEffect() hook to add the EmbedSocial script after the component rendered.
+
+Similarly, Google's tutorial for HTML/CSS/JS couldn't be applied directly to the JSX and so used the useEffect() hook to build and add the scripts. Every time we navigate away from the page and back to again, the map has disappeared and so I call initMap() again by inserting a new script.
+
+**Links(s) to work:**
+- [products.js](Code/Day_039/products.js)
+- [contact.js](Code/Day_039/contact.js)
