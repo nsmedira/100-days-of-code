@@ -277,3 +277,20 @@ Similarly, Google's tutorial for HTML/CSS/JS couldn't be applied directly to the
 **Links(s) to work:**
 - [products.js](Code/Day_039/products.js)
 - [contact.js](Code/Day_039/contact.js)
+
+### Day 45: September 7, 2020
+
+**Today's Progress**: Finished basic dev on mobile side nav, hosted site on Netlify, Daily Coding Problem
+
+**Thoughts:** I finished the first draft of the mobile side nav. Everything functioning and looking pretty good so far, both desktop and mobile.
+
+Hosted the site on netlify for client to review. Love the ability to deploy new builds with a simple `git push`. 
+
+Practiced a binary tree problem. Given a universal tree, count the number of universal value ("unival") subtrees.
+
+**Links(s) to work:**
+- [nav_list.js](Code/Day_045/nav_list.js)
+- [nav_segment.js](Code/Day_045/nav_segment.js)
+- [navbar.js](Code/Day_045/navbar.js)
+- [navbar.css](Code/Day_045/navbar.css)
+- [trees_universalvalue_solution.js](Code/Day_045/trees_universalvalue_solution.js)
