@@ -294,3 +294,19 @@ Practiced a binary tree problem. Given a universal tree, count the number of uni
 - [navbar.js](Code/Day_045/navbar.js)
 - [navbar.css](Code/Day_045/navbar.css)
 - [trees_universalvalue_solution.js](Code/Day_045/trees_universalvalue_solution.js)
+
+### Day 51: September 13, 2020
+
+**Today's Progress**: Finished converting blog into a markdown/filesystem model in Gatsby from database model in Firestore
+
+**Thoughts:** Followed Gatsby documentation to source markdown files from filesystem, convert them into pages via a template component, and create a list view that shows all of the blog posts.
+
+[Blog posts from markdown](https://www.gatsbyjs.com/docs/adding-markdown-pages/)
+[List blog posts](https://www.gatsbyjs.com/docs/adding-a-list-of-markdown-blog-posts/)
+
+**Links(s) to work:**
+- [blog.js](Code/Day_051/blog.js)
+- [gatsby-config.js](Code/Day_051/gatsby-config.js)
+- [gatsby-node.js](Code/Day_051/gatsby-node.js)
+- [post-link.js](Code/Day_051/post-link.js)
+- [post.js](Code/Day_051/post.js)
