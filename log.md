@@ -302,6 +302,7 @@ Practiced a binary tree problem. Given a universal tree, count the number of uni
 **Thoughts:** Followed Gatsby documentation to source markdown files from filesystem, convert them into pages via a template component, and create a list view that shows all of the blog posts.
 
 [Blog posts from markdown](https://www.gatsbyjs.com/docs/adding-markdown-pages/)
+
 [List blog posts](https://www.gatsbyjs.com/docs/adding-a-list-of-markdown-blog-posts/)
 
 **Links(s) to work:**
